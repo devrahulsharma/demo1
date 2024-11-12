@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hi my name rahul sharma
  this is my 3 file :
+=======
+this is new 3 file
+
+my name rahul welcome to you
+>>>>>>> Dev1
